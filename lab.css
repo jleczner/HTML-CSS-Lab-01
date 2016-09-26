@@ -1,0 +1,8 @@
+body {
+	background: url(egg.jpg) no-repeat center fixed;
+	background-size: cover;
+}
+
+p {
+	margin-right: 75%;
+}
